@@ -1,0 +1,10 @@
+Como Rodar o projeto
+
+No terminal, vá até a raiz do projeto:
+cd exemplo microsservico com docker 20252
+
+Rode com Docker Compose:
+docker-compose up --build
+
+Teste no navegador ou Postman:
+http://localhost:3002/products
